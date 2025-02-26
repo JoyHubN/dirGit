@@ -180,4 +180,18 @@
 # Ссылки 
 Это [ссылка](https://speedyalibaba.gallerycdn.vsassets.io/extensions/speedyalibaba/alabagitstashextension/1.0/1525460428475/Microsoft.VisualStudio.Services.Icons.Default) без подсказки
 
+```md
+Это [ссылка](https://speedyalibaba.gallerycdn.vsassets.io/extensions/speedyalibaba/alabagitstashextension/1.0/1525460428475/Microsoft.VisualStudio.Services.Icons.Default) без подсказки
+```
+
+
 Это [ссылка](https://speedyalibaba.gallerycdn.vsassets.io/extensions/speedyalibaba/alabagitstashextension/1.0/1525460428475/Microsoft.VisualStudio.Services.Icons.Default "Лого gitHub") с подсказкой
+```md
+Это [ссылка](https://speedyalibaba.gallerycdn.vsassets.io/extensions/speedyalibaba/alabagitstashextension/1.0/1525460428475/Microsoft.VisualStudio.Services.Icons.Default "Лого gitHub") с подсказкой
+```
+
+## Вставка картинок
+![Лого git](https://speedyalibaba.gallerycdn.vsassets.io/extensions/speedyalibaba/alabagitstashextension/1.0/1525460428475/Microsoft.VisualStudio.Services.Icons.Default)
+
+
+![Лого git](https://speedyalibaba.gallerycdn.vsassets.io/extensions/speedyalibaba/alabagitstashextension/1.0/1525460428475/Microsoft.VisualStudio.Services.Icons.Default "Лого git")
