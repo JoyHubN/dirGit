@@ -191,7 +191,14 @@
 ```
 
 ## Вставка картинок
-![Лого git](https://speedyalibaba.gallerycdn.vsassets.io/extensions/speedyalibaba/alabagitstashextension/1.0/1525460428475/Microsoft.VisualStudio.Services.Icons.Default)
+![Лого git](https://cs14.pikabu.ru/avatars/924/x924838-1739780915.png)
 
+```md
+![Лого git](https://cs14.pikabu.ru/avatars/924/x924838-1739780915.png)
+```
 
-![Лого git](https://speedyalibaba.gallerycdn.vsassets.io/extensions/speedyalibaba/alabagitstashextension/1.0/1525460428475/Microsoft.VisualStudio.Services.Icons.Default "Лого git")
+![Лого git](https://cs14.pikabu.ru/avatars/924/x924838-1739780915.png "Лого git")
+
+```md
+![Лого git](https://cs14.pikabu.ru/avatars/924/x924838-1739780915.png "Лого git")
+```
