@@ -178,6 +178,6 @@
 ```
 
 # Ссылки 
-Это [ссылка](https://speedyalibaba.gallerycdn.vsassets.io/extensions/speedyalibaba/alabagitstashextension/1.0/1525460428475/Microsoft.VisualStudio.Services.Icons.Default "Лого гитхаб") с тайтлом
+Это [ссылка](https://speedyalibaba.gallerycdn.vsassets.io/extensions/speedyalibaba/alabagitstashextension/1.0/1525460428475/Microsoft.VisualStudio.Services.Icons.Default) без подсказки
 
-Это [ссылка](https://speedyalibaba.gallerycdn.vsassets.io/extensions/speedyalibaba/alabagitstashextension/1.0/1525460428475/Microsoft.VisualStudio.Services.Icons.Default) без заголовка
+Это [ссылка](https://speedyalibaba.gallerycdn.vsassets.io/extensions/speedyalibaba/alabagitstashextension/1.0/1525460428475/Microsoft.VisualStudio.Services.Icons.Default "Лого gitHub") с подсказкой
