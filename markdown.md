@@ -231,7 +231,7 @@
 console.log('hello')
 ```
 
-# Таблицы и чек-боксы
+# Таблицы
 | Язык | Метка | 
 | -----|------| 
 | Java Script | javascript | 
@@ -241,10 +241,3 @@ console.log('hello')
 |JSON|json| 
 |Python|python| 
 |SQL|sql|
-
-
-[X] Хай
-
-[X]  
-
-[X]
