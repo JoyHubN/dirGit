@@ -1,6 +1,6 @@
 <html>
 <head>
-    <script scr='app.js'></script>
+    <scripts scr='app.js'>
 </head>
 <body>
     <ol id='ol'>
