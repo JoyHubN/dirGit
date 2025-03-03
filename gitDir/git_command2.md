@@ -37,9 +37,9 @@ git commit -m "your_message"
 
 ## Работа с ветками
 * ```git branch``` - посмотреть список веток ![gitBranch](photos/gitBranch.png)
-* ```git branch <название ветки>``` - создать ветку (новая ветка унаследует коммиты родительской ветки)
-* ```git checkout <название ветки>``` - перейти на ветку
-* ```git branch -d <название ветки>``` - удалить ветку после merge
-* ```git branch -D <название ветки>``` - удалить ветку принудительно
+* ```git branch <название ветки>``` - создать ветку (новая ветка унаследует коммиты родительской ветки) ![gitBranchCreate](photos/gitBranchCreate.png)
+* ```git checkout <название ветки>``` - перейти на ветку ![gitCheckout2](photos/gitChechout.png)
+* ```git branch -d <название ветки>``` - удалить ветку после merge ![gitBranchd](photos/gitBranchd.png)
+* ```git branch -D <название ветки>``` - удалить ветку принудительно ![gitBranchD](photos/gitBranchD.png)
 * ```git merge <название сливаемой ветки>``` - сливание веток
 
