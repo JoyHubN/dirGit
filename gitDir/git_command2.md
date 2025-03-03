@@ -28,11 +28,12 @@ git commit -m "your_message"
 
 
 ## Перейти к сохранению
-* ```git checkout```
-* ```git checkout <номер коммита, первые 4 символа>``` - перейти к определенному изменению
-* ```git master``` - перейти к изменению последнего коммита
+ ```git checkout```
+* ```git checkout <номер коммита, первые 4 символа>``` - перейти к определенному изменению ![gitCheckout](photos/gitChechout.png)
+* ```git checkout master``` - перейти к изменению последнего коммита ![gitCheckoutMaster](photos/gtiCheckoutMaster.png)
 ## Посмотреть есть ли не сохранненные изменения репозитория (файлов)
 * ```get status```
+![gitStatus](photos/gitStatus.png)
 
 ## Работа с ветками
 * ```git branch``` - посмотреть список веток
