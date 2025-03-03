@@ -26,7 +26,7 @@ git commit -m "your_message"
 * `git log --graph` - вид с графическим отображением веток
 ![gitLogGraph](photos/gitLog.png)
 
-
+jdje
 ## Перейти к сохранению
  ```git checkout```
 * ```git checkout <номер коммита, первые 4 символа>``` - перейти к определенному изменению ![gitCheckout](photos/gitChechout.png)
