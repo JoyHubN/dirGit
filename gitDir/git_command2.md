@@ -16,7 +16,7 @@ git commit -m "your_message"
 >
 >-m - добавить сообщение (комментарий)
 >
->"your_message" - комментарий (в кавычках)
+>"your_messe" - комментарий (в кавычках)
 ### Пример
 ![gitCommit](photos/gitCommit.png)
 
