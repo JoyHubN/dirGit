@@ -41,5 +41,5 @@ git commit -m "your_message"
 * ```git checkout <название ветки>``` - перейти на ветку ![gitCheckout2](photos/gitChechout.png)
 * ```git branch -d <название ветки>``` - удалить ветку после merge ![gitBranchd](photos/gitBranchd.png)
 * ```git branch -D <название ветки>``` - удалить ветку принудительно ![gitBranchD](photos/gitBranchD.png)
-* ```git merge <название сливаемой ветки>``` - сливание веток
+* ```git merge <название сливаемой ветки>``` - сливание веток ![gitMerge](photos/gitMerge.png)
 
