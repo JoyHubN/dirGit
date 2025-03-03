@@ -16,7 +16,7 @@ git commit -m "your_message"
 >
 >-m - добавить сообщение (комментарий)
 >
->"your_messe" - комментарий (в кавычках)
+>"your_message" - комментарий (в кавычках)
 ### Пример
 ![gitCommit](photos/gitCommit.png)
 
@@ -40,6 +40,6 @@ git commit -m "your_message"
 * ```git branch <название ветки>``` - создать ветку (новая ветка унаследует коммиты родительской ветки) ![gitBranchCreate](photos/gitBranchCreate.png)
 * ```git checkout <название ветки>``` - перейти на ветку ![gitCheckout2](photos/gitChechout.png)
 * ```git branch -d <название ветки>``` - удалить ветку после merge ![gitBranchd](photos/gitBranchd.png)
-* ```git brach -D <название ветки>``` - удалить ветку принудительно ![gitBranchD](photos/gitBranchD.png)
+* ```git branch -D <название ветки>``` - удалить ветку принудительно ![gitBranchD](photos/gitBranchD.png)
 * ```git merge <название сливаемой ветки>``` - сливание веток
 
