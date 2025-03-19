@@ -2,7 +2,7 @@
 ```bash
 git clone https://github.com/nameUser/nameRep.git
 ```
-<br><br>
+<br>
 <ul>
     <li>nameUser — имя пользователя</li>
     <li>nameRep — название репозитория</li>
